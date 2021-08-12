@@ -1,6 +1,9 @@
-### Hi there 👋
+Hi there! 👋 I'm Elias Robert Hakim
 
 Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScript programming. Thrives when challenged to create innovative solutions using collaboration and detail management. Professional experience documenting commercial and residential construction sites with 3D scanners, cameras and unmanned aerial vehicles(drones). 
+
+<i class="devicon-rails-plain colored"></i>
+
 
 <!--
 **haki9975/haki9975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<i class="devicon-rails-plain colored"></i>
+
