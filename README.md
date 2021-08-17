@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Elias Robert Hakim
+<h1>Hi there! 👋 I'm Elias Robert Hakim</h1>
 
 Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScript programming. Thrives when challenged to create innovative solutions using collaboration and detail management. Professional experience documenting commercial and residential construction sites with 3D scanners, cameras and unmanned aerial vehicles(drones). 
 
