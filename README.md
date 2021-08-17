@@ -26,6 +26,6 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haki9975&show_icons=true&locale=en" alt="haki9975" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haki9975&label=Profile%20views&color=0e75b6&style=flat" alt="haki9975" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haki9975&label=Profile%20views&color=0e75b6&style=flat" alt="haki9975" /> </p>
 
 
