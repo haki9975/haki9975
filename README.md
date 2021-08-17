@@ -3,8 +3,7 @@
 
 Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScript programming. Thrives when challenged to create innovative solutions using collaboration and detail management. Professional experience documenting commercial and residential construction sites with 3D scanners, cameras and unmanned aerial vehicles (drones). 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haki9975&label=Profile%20views&color=0e75b6&style=flat" alt="haki9975" /> </p>
+<hr />
 
 
 - 🔭 I’m currently working on increasing the depth of my JavaScipt knowledge 
@@ -24,6 +23,6 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haki9975&show_icons=true&locale=en" alt="haki9975" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haki9975&label=Profile%20views&color=0e75b6&style=flat" alt="haki9975" /> </p>
 
 
