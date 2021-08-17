@@ -19,6 +19,8 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haki9975" alt="haki9975" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haki9975&show_icons=true&locale=en" alt="haki9975" /></p>
+
 
 
 
