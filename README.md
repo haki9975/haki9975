@@ -8,7 +8,7 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 
 <!-- <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haki9975" alt="haki9975" /></a> </p> -->
 
-[![trophy]()
+
 
 
 
