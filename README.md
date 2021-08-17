@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Elias Robert Hakim</h1>
+<hr />
 <h3 align="center"> Flatiron School Full Stack Softwasre Engineering Graduate </h3>
 
 Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScript programming. Thrives when challenged to create innovative solutions using collaboration and detail management. Professional experience documenting commercial and residential construction sites with 3D scanners, cameras and unmanned aerial vehicles (drones). 
@@ -13,7 +14,7 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 - 💬 Ask me about coding, music, bicycles, maps
   
 
-
+<hr />
 
 
 <h3 align="left">Languages and Tools:</h3>
