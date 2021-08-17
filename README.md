@@ -6,14 +6,14 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haki9975&label=Profile%20views&color=0e75b6&style=flat" alt="haki9975" /> </p>
 
-<p align="center">
+
 - 🔭 I’m currently working on increasing the depth of my JavaScipt knowledge 
 
 - 🌱 I’m currently learning the fine points of CSS
 
 - 💬 Ask me about coding, music, bicycles, maps
   
-</p>
+
 
 
 
