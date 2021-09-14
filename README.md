@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Elias Robert Hakim</h1>
+<p align='center'>I prefer my middle name, Robert, but feel free to call me by my first or last name as well.</p>
 <hr />
 <h3 align="center"> Flatiron School Full Stack Softwasre Engineering Graduate </h3>
 
