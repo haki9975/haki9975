@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Elias Robert Hakim</h1>
-<p align='center'>I prefer my middle name, Robert, but feel free to call me by my first or last name as well.</p>
+
 <hr />
 <h3 align="center"> Flatiron School Full Stack Softwasre Engineering Graduate </h3>
 
@@ -8,11 +8,11 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 <hr />
 
 
-- 🔭 I’m currently working on increasing the depth of my JavaScipt knowledge 
+- 🔭 I’m currently working on building a RESTful API with Node.js and MongoDB 
 
-- 🌱 I’m currently learning the fine points of CSS
+- 🌱 I’m currently learning the fine points of Node.js
 
-- 💬 Ask me about coding, music, bicycles, maps
+- 💬 Ask me about Ruby on Rails, JavaScript EC6, music, bicycles, and maps!
   
 
 <hr />
