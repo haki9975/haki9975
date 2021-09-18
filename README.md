@@ -8,6 +8,7 @@ Full Stack Developer with experience in Ruby on Rails, React/Redux and JavaScrip
 <hr />
 
 
+
 - 🔭 I’m currently working on building a RESTful API with Node.js and MongoDB 
 
 - 🌱 I’m currently learning the fine points of Node.js
